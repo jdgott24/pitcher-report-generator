@@ -4,7 +4,7 @@ A Python tool for generating pitcher reports from TrackMan data. The report summ
 
 ## Example Report
 
-![Sample Pitcher Report](example/sample_report.png)
+![Sample Pitcher Report](reports/sample_report.png)
 
 The example above was generated using fully synthetic data designed to resemble the structure and realistic values of a TrackMan export. No real player or team data is included.
 
